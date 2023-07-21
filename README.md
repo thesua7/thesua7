@@ -2,10 +2,10 @@
 
 
 
-Here are some ideas to get you started:
+My current obsession:
 
-- 🔭 I’m currently working on machine learning/android projects
-- 🌱 I’m currently learning SQA
+- 🔭 I’m currently working on ai based android projects
+- 🌱 I’m currently learning Flutter
 
-- ⚡ Fun fact: I love designing UI
--->
+- ⚡ Fun fact: I love designing UI, do data analysing 
+
